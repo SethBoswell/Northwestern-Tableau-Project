@@ -26,7 +26,14 @@ This heatmap is similar to the previous one, but it breaks the data down by gend
 In this graph, the data is broken down by user type (customer vs subscriber), weekday, and gender. The main observation from this data is the larger number of trips are taken by male subscribers throughout the entire week. This suggests that marketing efforts could either target these specific types of users, or they could try to gain more interest from their lagging user types (e.g., female non-subscribers).  
 
 ![Viz 6](https://github.com/SethBoswell/bikesharing/blob/main/Images/Viz%206.png)
+
 From this pie chart, you can also see the majoirty of users are subscribers, again suggesting that the predominant customer base has subscriptions to use this service.
 
 ![Viz 7](https://github.com/SethBoswell/bikesharing/blob/main/Images/Viz%207.png)
+
 Finally, in this graph, you can see the most trips are occurring in lower Manhatten. It would be interesting to investigate whether this is the result of more bikes being in this area, or if it's due to the high population density in lower Manhatten. 
+## Summary
+Overall, these results show that the main user for the biksharing service is males with subscriptions, who typically ride in lower Manhatten. The most common times for rides are 8 am and 5-6 pm, Monday through Friday, while Saturday and Sunday are generally quite busy throughout the day. 
+
+One additional visualization I would like to add to this project is an map that shows the distribution of bike starting locations across New York. Are they typically in lower Manhatten? This might explain the final visualization. Finally, I would like a visualization that depicts revenue accruing from each of the different customers types to see if the male subscribers tend to also be brining in the most revenue. A good question for future marketing efforts is whether to continue to advertise this service for that demographic, or try to pinpoint other customers (such as females) in order to increase revenue. 
+
