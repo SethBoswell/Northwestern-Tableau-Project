@@ -15,7 +15,7 @@ Males take many more trips at all different levels of trip durations; however, e
 
 ![Viz 3](https://github.com/SethBoswell/bikesharing/blob/main/Images/Viz%203.png)
 
-This heatmap shows that users tend to take more trips around the 8 AM and 5-6 PM mark, likely when they are going to and from work. You can also see that Saturday adn Sunday have higher user trips throughout the normal hours of the day, likely as people are engaging in leisurely activities. 
+This heatmap shows that users tend to take more trips around the 8 AM and 5-6 PM mark, likely when they are going to and from work. You can also see that Saturday and Sunday have higher user trips throughout the normal hours of the day, likely as people are engaging in leisurely activities. 
 
 ![Viz 4](https://github.com/SethBoswell/bikesharing/blob/main/Images/Viz%204.png)
 
